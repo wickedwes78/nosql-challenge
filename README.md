@@ -32,4 +32,6 @@ This project can be used to find some information about Mars.
 
 ## Credits
 
-Code used was drawn from in class and google searches to find why code wasn't working.  
+Code used was drawn from in class and google searches to find why code wasn't working.
+https://www.geeksforgeeks.org/python-mongodb-update_one/
+https://stackoverflow.com/questions/15171622/mongoimport-of-json-file
